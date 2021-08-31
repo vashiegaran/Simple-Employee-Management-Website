@@ -2,11 +2,11 @@
 
 Website Screenshot
 
-![Dataset](image/E1.png)
+![Dataset](Image/E1.png)
 
-![Dataset](image/E2.png)
+![Dataset](Image/E2.png)
 
-![Dataset](image/E4.png)
+![Dataset](Image/E4.png)
 
 
 
